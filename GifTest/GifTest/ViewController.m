@@ -7,7 +7,6 @@
 //
 
 #import "ViewController.h"
-#import <MobileCoreServices/UTCoreTypes.h>
 
 @interface ViewController ()
 

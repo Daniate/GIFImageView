@@ -7,6 +7,8 @@
 //
 
 #import "GIFImageView.h"
+#import <ImageIO/ImageIO.h>
+#import <MobileCoreServices/MobileCoreServices.h>
 
 @interface GIFImageView ()
 @property (nonatomic, assign) CGFloat maxPixelWidth;
